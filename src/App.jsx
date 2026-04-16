@@ -36,7 +36,7 @@ function App() {
   }
 
   return (
-    <div className={darkmode ? "dark" : ""}>
+    <div className={darkMode ? "dark" : ""}>
       <h1>Habit Tracker</h1>
 
       <input
